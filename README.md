@@ -19,7 +19,7 @@
 
 ## Статистика профиля
 
-![GitHub stats]((https://avatars.mds.yandex.net/i?id=72f3d9c29581fea7bef6615b8658efebc7071404-12651048-images-thumbs&n=13))
+![GitHub stats](https://avatars.mds.yandex.net/i?id=72f3d9c29581fea7bef6615b8658efebc7071404-12651048-images-thumbs&n=13)
 ![Top Langs](https://steamuserimages-a.akamaihd.net/ugc/922556277778598470/AACEBE18B90A9894DB56A17457C580A05A1EF0FC/?imw=512&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
 ---
