@@ -1,4 +1,4 @@
-
+ni
 #  Привет! Я Дени
 
 ## Разработчик
@@ -41,7 +41,7 @@
 
 ## Контакты
 
-[![Telegram](https://img.shields.io/badge/-@YourUsername-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/deni)  
+[![Telegram](https://img.shields.io/badge/-@deni-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/deni)  
 [![Email](https://img.shields.io/badge/-deni@email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:master@email.com)
 
 ---
@@ -53,4 +53,4 @@
 
 ---
 
-*Спасибо за визит! Добро пожаловать в мои миры!*
+*Спасибо за визит!*
