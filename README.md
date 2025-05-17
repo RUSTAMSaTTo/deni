@@ -19,8 +19,8 @@
 
 ## Статистика профиля
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![GitHub stats]((https://avatars.mds.yandex.net/i?id=72f3d9c29581fea7bef6615b8658efebc7071404-12651048-images-thumbs&n=13))
+![Top Langs](https://steamuserimages-a.akamaihd.net/ugc/922556277778598470/AACEBE18B90A9894DB56A17457C580A05A1EF0FC/?imw=512&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
 ---
 
